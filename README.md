@@ -17,13 +17,6 @@ To write a program to implement the SVM For Spam Mail Detection.
 7. Finally, evaluate the accuracy of the model.
 
 ## Program:
-```
-/*
-Program to implement the SVM For Spam Mail Detection..
-Developed by: Rahul M R
-RegisterNumber: 2305003005
-*/
-```
 ```Python
 import chardet 
 file='spam.csv'
